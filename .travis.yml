@@ -34,5 +34,5 @@ deploy:
     api_key:
       secure: gZV7yLxDwwxD4oQXl1hwugmtnWXqP8vojuVGtAGwtMlwJE0n270w6O5xZHDd7DSmOZLftk6/wue/RdhLDsD6J1z3Uxu+VoUWy7aG/sFcGRaBwct+bGqFGkyd+I1mCXFnAZMDwbtgdkQlOCS9PM1BfMEYq49XXqaLaDnwouR+2bI=
     on:
-      branch: production
+      branch: npm
       repo: duniter/duniter
